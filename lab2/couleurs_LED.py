@@ -1,3 +1,5 @@
+#Première partie du laboratoire
+
 import random
 
 ranges = (-30,-10,10,30)
