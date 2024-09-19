@@ -1,3 +1,4 @@
+#Ce programme fait la recherche de mot dans une liste
 liste_mot = [""]
 check = 0
 
