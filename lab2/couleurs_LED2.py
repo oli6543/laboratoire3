@@ -1,4 +1,4 @@
-#Partie 2 du laboratoire avec les LED
+#Partie 2 du laboratoire avec les Led
 import random
 
 ranges = (-30,-10,10,30)
