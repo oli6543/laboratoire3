@@ -1,3 +1,4 @@
+#Ce programme identifie le jour de la semaine selon un nombre
 jours_semaine = "Dimanche","Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi"
 
 semaine_laboral = "Lundi","Mardi","Mercredi","Jeudi","Vendredi"
